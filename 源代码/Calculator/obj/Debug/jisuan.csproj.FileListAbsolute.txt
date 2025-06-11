@@ -1,0 +1,10 @@
+C:\vs\jisuan\jisuan\bin\Debug\jisuan.exe.config
+C:\vs\jisuan\jisuan\bin\Debug\jisuan.exe
+C:\vs\jisuan\jisuan\bin\Debug\jisuan.pdb
+C:\vs\jisuan\jisuan\obj\Debug\jisuan.csproj.AssemblyReference.cache
+C:\vs\jisuan\jisuan\obj\Debug\jisuan.Form1.resources
+C:\vs\jisuan\jisuan\obj\Debug\jisuan.Properties.Resources.resources
+C:\vs\jisuan\jisuan\obj\Debug\jisuan.csproj.GenerateResource.cache
+C:\vs\jisuan\jisuan\obj\Debug\jisuan.csproj.CoreCompileInputs.cache
+C:\vs\jisuan\jisuan\obj\Debug\jisuan.exe
+C:\vs\jisuan\jisuan\obj\Debug\jisuan.pdb
